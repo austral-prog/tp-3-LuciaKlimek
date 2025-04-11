@@ -11,8 +11,3 @@ def check_vowels():
    print(f"Contiene i: {contiene_i}")
    print(f"Contiene o: {contine_o}")
    print(f"Contiene u: {contiene_u}")
-    # Código a implementar utilizando input.
-
-
-# Para verificar este ejercicio ejecutar el comando
-# `pytest tp3_in_string_test.py` o `python tp3_in_string_test.py`
