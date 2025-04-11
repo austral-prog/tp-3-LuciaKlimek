@@ -3,4 +3,4 @@ def slice_simple():
 
     print(txt[:3].lower())
     print(txt[2:5])
-    print((txt[0:4] + txt[-3:]).lower())
+    print(txt[0:4].lower() + txt[-3:].lower())
